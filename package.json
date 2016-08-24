@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server"
+    "start": "set NODE_ENV=development&&nodemon server"
   },
   "author": "Aleksandar Grbic <a@codelifting.org> (http://www.codelifting.org/)",
   "license": "MIT",
