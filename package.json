@@ -1,0 +1,16 @@
+{
+  "name": "node-globals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "author": "Aleksandar Grbic <a@codelifting.org> (http://www.codelifting.org/)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.14.0",
+    "faker": "3.1.0",
+    "mongoose": "4.5.10"
+  }
+}
